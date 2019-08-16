@@ -1,6 +1,10 @@
 # VkBot
 Simple example of the vk bot on python with adding commands to the config file
 ____
+# Загрузка модулей
+- pip install colorama
+- pip install vk_api
+- pip install keyboard
 # Настройка
 ## Подготовка группы
 - Включить сообщения группы
