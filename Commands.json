@@ -1,0 +1,19 @@
+{
+  "Commands":[
+    {
+      "cmd": "/тест",
+      "answer": "Тестовая команда",
+      "attachment": ""
+    },
+    {
+      "cmd": "/картинка",
+      "answer": "",
+      "attachment": "1.jpg"
+    },
+    {
+      "cmd": "/картинка с текстом",
+      "answer": "картинка с текстом",
+      "attachment": "1.jpg"
+    }
+  ]
+}
